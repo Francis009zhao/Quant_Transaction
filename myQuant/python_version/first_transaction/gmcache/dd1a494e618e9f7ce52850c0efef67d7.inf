@@ -1,0 +1,5 @@
+start_datatime = 2016-06-17 13:00:00
+end_datatime = 2018-08-21 15:00:00
+adjust = 1
+[1d] = SHSE.600000,SZSE.000001
+
